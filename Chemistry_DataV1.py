@@ -93,3 +93,4 @@ heatmap_layer.locations = default_data[["latitude", "longitude", "scaled_pH"]].d
 with output:
     print(f"pH Values for {default_period}:")
     print(default_data[["MonitoringStationName", "Result"]].to_string(index=False))
+
