@@ -25,3 +25,4 @@ It then visualises the data using a slider interface on top of a Leafmap display
 In order to incorporate the Data within a ARCGIS Online application, the workflow found here can be used: 
 https://storymaps.arcgis.com/stories/9a1f42437d4a4a9aa4599219e058c688 
 
+![mon_stations_dublin](https://github.com/user-attachments/assets/6d2fb626-0a29-423e-96fe-d68414d01c52)
