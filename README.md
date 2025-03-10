@@ -12,7 +12,6 @@ Operations
 - Read CSVs into Pandas Dataframes
 - Merge Dataframes
 - Join Dataframes to Sampling Location GeoJSON based on monitoring station name
-- 
 
 
 
