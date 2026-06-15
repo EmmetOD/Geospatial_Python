@@ -1,4 +1,4 @@
-Heres some Geospatial Projects and Workflows: 
+Here's some Geospatial Projects and Workflows: 
 
 ** 1. Dodder River Heatmap workflow **
    
